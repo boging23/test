@@ -1,157 +1,233 @@
 [
   {
-    "id": 101,
-    "sound_category": "Rain",
-    "name": "Heavy Rain",
-    "fileName": "heavy_rainurl",
-    "iconResName": "xrheavy_rain",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/heavy_rain.opus"
-  },
-  {
-    "id": 102,
-    "sound_category": "Rain",
-    "name": "Light Rain",
-    "fileName": "light_rainurl",
-    "iconResName": "xrlight__rain",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/light_rain.opus"
-  },
-  {
     "id": 103,
-    "sound_category": "Rain",
     "name": "Rain",
     "fileName": "rainurl",
     "iconResName": "xrrain",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
     "isPremium": false,
     "localAsset": "nature/rain.opus"
-  },
-   {
-    "id": 116,
-    "sound_category": "Water",
-    "name": "Creek",
-    "fileName": "water6url",
-    "iconResName": "xscreek",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/creek.opus"
-  },
-   {
-    "id": 118,
-    "sound_category": "Water",
-    "name": "Rapid Stream",
-    "fileName": "water8url",
-    "iconResName": "xsrapid_stream",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/rapidstream.opus"
-  },
-   {
-    "id": 123,
-    "sound_category": "Water",
-    "name": "Ocean",
-    "fileName": "water13url",
-    "iconResName": "xoocean",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/oceanwave.opus"
-  },
-  {
-    "id": 124,
-    "sound_category": "Water",
-    "name": "Calm Wave",
-    "fileName": "water14url",
-    "iconResName": "xosmallwave",
-    "defaultVolume": 15,
-    "soundUrl": null,
-    "isPremium": false,
-    "localAsset": "nature/smallwave.opus"
-  },
-  {
+  },  
+    {
     "id": 134,
-    "sound_category": "Nature",
     "name": "Campfire",
     "fileName": "nature1url",
     "iconResName": "xfcampfire",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
     "isPremium": false,
     "localAsset": "nature/campfire.opus"
   },
+   {
+    "id": 177,
+    "name": "Clock",
+    "fileName": "city7url",
+    "iconResName": "xcclock",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/clock.opus",
+    "isPremium": false,
+    "localAsset": null
+  },
+  {
+    "id": 101,
+    "name": "Heavy Rain",
+    "fileName": "heavy_rainurl",
+    "iconResName": "xrheavy_rain",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/heavy_rain.opus"
+  },
+  {
+    "id": 102,
+    "name": "Light Rain",
+    "fileName": "light_rainurl",
+    "iconResName": "xrlight__rain",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/light_rain.opus"
+  },
+  {
+    "id": 116,
+    "name": "Creek",
+    "fileName": "water6url",
+    "iconResName": "xscreek",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/creek.opus"
+  },
+   {
+    "id": 118,
+    "name": "Rapid Stream",
+    "fileName": "water8url",
+    "iconResName": "xsrapid_stream",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/rapidstream.opus"
+  },
+   {
+    "id": 123,
+    "name": "Ocean",
+    "fileName": "water13url",
+    "iconResName": "xoocean",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/oceanwave.opus"
+  },
+  {
+    "id": 124,
+    "name": "Calm Wave",
+    "fileName": "water14url",
+    "iconResName": "xosmallwave",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/smallwave.opus"
+  },
   {
     "id": 167,
-    "sound_category": "Bird",
     "name": "Birds Chirping",
     "fileName": "bird2",
     "iconResName": "xbbirdchirp",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
-    "isPremium": false,
+    "isPremium": true,
     "localAsset": "nature/birdchirp.opus"
   },
   {
     "id": 150,
-    "sound_category": "Animal",
     "name": "Cricket",
     "fileName": "animal6url",
     "iconResName": "xacricket",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
-    "isPremium": false,
+    "isPremium": true,
     "localAsset": "nature/cricket1.opus"
   },
   {
     "id": 173,
-    "sound_category": "City",
     "name": "Cafe",
     "fileName": "city3url",
     "iconResName": "xccafe",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
-    "isPremium": false,
+    "isPremium": true,
     "localAsset": "nature/cafe.opus"
   },
   {
     "id": 174,
-    "sound_category": "City",
     "name": "Car",
     "fileName": "city4url",
     "iconResName": "xccar",
-    "defaultVolume": 15,
+    "defaultVolume": 40,
     "soundUrl": null,
-    "isPremium": false,
+    "isPremium": true,
     "localAsset": "nature/car.opus"
   },
-  {
+   {
+    "id": 114,
+    "name": "Calm River",
+    "fileName": "water3url",
+    "iconResName": "xsriver",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/boging23/boging1@main/calm_river.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+   {
+    "id": 112,
+    "name": "Bamboo Fountain",
+    "fileName": "water1url",
+    "iconResName": "xsbamboo_fountain",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/boging23/boging1@main/bamboofountain.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+   {
     "id": 110,
-    "sound_category": "Rain",
-    "name": "Dry Thunder",
+    "sound_category": "Thunder",
     "fileName": "thunder1url",
     "iconResName": "xtthunder",
-    "defaultVolume": 15,
-    "soundUrl": "https://audio.sugengiman.my.id/audio/rain/dry_thunder.opus",
-    "isPremium": false,
-    "localAsset": null
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": true,
+    "localAsset": "nature/thunder.opus"
   },
   {
     "id": 111,
-    "sound_category": "Rain",
-    "name": "Thunder",
+    "sound_category": "Thunder",
     "fileName": "thunder2url",
     "iconResName": "xtthunder",
-    "defaultVolume": 15,
-    "soundUrl": "https://audio.sugengiman.my.id/audio/rain/loud_thunder.opus",
-    "isPremium": false,
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/boging23/boging1@main/loud_thunder.opus",
+    "isPremium": true,
     "localAsset": null
-  }
+  },
+  {
+    "id": 135,
+    "name": "Fireplace",
+    "fileName": "nature2url",
+    "iconResName": "xffireplace",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/fireplace.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+  {
+    "id": 136,
+    "name": "Jungle",
+    "fileName": "nature3url",
+    "iconResName": "xfoforest",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/forest.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+  {
+    "id": 140,
+    "name": "Blizzard",
+    "fileName": "nature7url",
+    "iconResName": "xbblizzard",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/blizzard.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+  {
+    "id": 141,
+    "name": "Snow",
+    "fileName": "nature8url",
+    "iconResName": "xbsnowfall",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/snow.opus",
+    "isPremium": true,
+    "localAsset": null
+  },
+  {
+    "id": 190,
+    "sound_category": "Home",
+    "fileName": "home1",
+    "iconResName": "xhac",
+    "defaultVolume": 40,
+    "soundUrl": null,
+    "isPremium": false,
+    "localAsset": "nature/ac.opus"
+  },
+   {
+    "id": 194,
+    "name": "Metal Wind Chimes",
+    "fileName": "home6",
+    "iconResName": "xhchime_metal",
+    "defaultVolume": 40,
+    "soundUrl": "https://cdn.jsdelivr.net/gh/ejhaaja/ejha@main/chime_metal.opus",
+    "isPremium": true,
+    "localAsset": null
+  } 
   
 ]
