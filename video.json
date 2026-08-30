@@ -3,252 +3,252 @@
     "category": "Rain",
     "tittleName": "Rain at the Hut",
     "attribution": null,
-    "thumbnail": "video/Rain1.webp",
+    "thumbnail": "rain1",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009223/Rain1.mp4"
   },
   {
     "category": "Rain",
     "tittleName": "Rain in the Cabin",
     "attribution": null,
-    "thumbnail": "video/Rain2.webp",
+    "thumbnail": "rain2",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009223/Rain2.mp4"
   },
   {
     "category": "Rain",
     "tittleName": "Rain in the Yard",
     "attribution": null,
-    "thumbnail": "video/Rain3.webp",
+    "thumbnail": "rain3",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009223/Rain3.mp4"
   },
   {
     "category": "Rain",
     "tittleName": "Rain on the Bedroom Window",
     "attribution": null,
-    "thumbnail": "video/Rain4.webp",
+    "thumbnail": "rain4",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009223/Rain4.mp4"
   },
   {
     "category": "Rain",
     "tittleName": "Rain on the Leaves",
     "attribution": null,
-    "thumbnail": "video/Rain5.webp",
+    "thumbnail": "rain5",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009223/Rain5.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Bamboo Water Fountain",
     "attribution": null,
-    "thumbnail": "video/Nature1.webp",
+    "thumbnail": "nature1",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature1.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Calm Lake",
     "attribution": null,
-    "thumbnail": "video/Nature2.webp",
+    "thumbnail": "nature2",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature2.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Calm Mountain",
     "attribution": null,
-    "thumbnail": "video/Nature3.webp",
+    "thumbnail": "nature3",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature3.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Calm River",
     "attribution": null,
-    "thumbnail": "video/Nature4.webp",
+    "thumbnail": "nature4",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature4.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Fire",
     "attribution": null,
-    "thumbnail": "video/Nature5.webp",
+    "thumbnail": "nature5",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature5.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Flowing River",
     "attribution": null,
-    "thumbnail": "video/Nature6.webp",
+    "thumbnail": "nature6",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature6.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Morning Field",
     "attribution": null,
-    "thumbnail": "video/Nature7.webp",
+    "thumbnail": "nature7",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature7.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Morning Lake",
     "attribution": null,
-    "thumbnail": "video/Nature8.webp",
+    "thumbnail": "nature8",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature8.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Night at Field",
     "attribution": null,
-    "thumbnail": "video/Nature9.webp",
+    "thumbnail": "nature9",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature9.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Quiet Night",
     "attribution": null,
-    "thumbnail": "video/Nature10.webp",
+    "thumbnail": "nature10",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature10.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Relax Campfire",
     "attribution": null,
-    "thumbnail": "video/Nature11.webp",
+    "thumbnail": "nature11",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature11.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Serenity Lake",
     "attribution": null,
-    "thumbnail": "video/Nature12.webp",
+    "thumbnail": "nature12",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature12.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Snow Fall on Windows",
     "attribution": null,
-    "thumbnail": "video/Nature13.webp",
+    "thumbnail": "nature13",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature13.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Snowfall",
     "attribution": null,
-    "thumbnail": "video/Nature14.webp",
+    "thumbnail": "nature14",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature14.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Waterfall",
     "attribution": null,
-    "thumbnail": "video/Nature15.webp",
+    "thumbnail": "nature15",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature15.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Winter Creek",
     "attribution": null,
-    "thumbnail": "video/Nature16.webp",
+    "thumbnail": "nature16",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature16.mp4"
   },
   {
     "category": "Nature",
     "tittleName": "Winter Lake",
     "attribution": null,
-    "thumbnail": "video/Nature17.webp",
+    "thumbnail": "nature17",
     "videoUrl": "https://res.cloudinary.com/eg2dfe8b/video/upload/v1788010069/Nature17.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Afternoon at the Beach",
     "attribution": null,
-    "thumbnail": "video/Beach1.webp",
+    "thumbnail": "beach1",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach1.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Beachside Village",
     "attribution": null,
-    "thumbnail": "video/Beach2.webp",
+    "thumbnail": "beach2",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach2.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Night at the Bay",
     "attribution": null,
-    "thumbnail": "video/Beach3.webp",
+    "thumbnail": "beach3",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach3.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Relaxing on the Beach",
     "attribution": null,
-    "thumbnail": "video/Beach4.webp",
+    "thumbnail": "beach4",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach4.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Small Waves in the Bay",
     "attribution": null,
-    "thumbnail": "video/Beach5.webp",
+    "thumbnail": "beach5",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach5.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Soothing Waves",
     "attribution": null,
-    "thumbnail": "video/Beach6.webp",
+    "thumbnail": "beach6",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach6.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Watching Coral Reefs",
     "attribution": null,
-    "thumbnail": "video/Beach7.webp",
+    "thumbnail": "beach7",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach7.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Waves from Above",
     "attribution": null,
-    "thumbnail": "video/Beach8.webp",
+    "thumbnail": "beach8",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach8.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Waves in the Middle of the Sea",
     "attribution": null,
-    "thumbnail": "video/Beach9.webp",
+    "thumbnail": "beach9",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach9.mp4"
   },
   {
     "category": "Beach",
     "tittleName": "Waves on the Rocks",
     "attribution": null,
-    "thumbnail": "video/Beach10.webp",
+    "thumbnail": "beach10",
     "videoUrl": "https://res.cloudinary.com/l6tysfwj/video/upload/v1788009644/Beach10.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Cosmic Cloud",
     "attribution": null,
-    "thumbnail": "video/ab1.webp",
+    "thumbnail": "ab1",
     "videoUrl": "https://files.catbox.moe/xaxurq.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Spinning Particle",
     "attribution": null,
-    "thumbnail": "video/ab2.webp",
+    "thumbnail": "ab2",
     "videoUrl": "https://files.catbox.moe/wpahuy.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Spiral Bubble",
     "attribution": null,
-    "thumbnail": "video/ab3.webp",
+    "thumbnail": "ab3",
     "videoUrl": "https://files.catbox.moe/ob0kee.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Unlimited",
     "attribution": null,
-    "thumbnail": "video/ab4.webp",
+    "thumbnail": "ab4",
     "videoUrl": "https://files.catbox.moe/yg43y9.mp4"
   }
 ]
