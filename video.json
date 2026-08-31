@@ -228,27 +228,27 @@
     "tittleName": "Cosmic Cloud",
     "attribution": null,
     "thumbnail": "ab1",
-    "videoUrl": "https://cdn.jsdelivr.net/gh/boging23/test@main/ab1.mp4"
+    "videoUrl": "https://res.cloudinary.com/qlau93ne/video/upload/v1788137519/ab1.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Spinning Particle",
     "attribution": null,
     "thumbnail": "ab2",
-    "videoUrl": "https://cdn.jsdelivr.net/gh/boging23/test@main/ab2.mp4"
+    "videoUrl": "https://res.cloudinary.com/qlau93ne/video/upload/v1788137520/ab2.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Spiral Bubble",
     "attribution": null,
     "thumbnail": "ab3",
-    "videoUrl": "https://cdn.jsdelivr.net/gh/boging23/test@main/ab3.mp4"
+    "videoUrl": "https://res.cloudinary.com/qlau93ne/video/upload/v1788137520/ab3.mp4"
   },
   {
     "category": "Abstract",
     "tittleName": "Unlimited",
     "attribution": null,
     "thumbnail": "ab4",
-    "videoUrl": "https://cdn.jsdelivr.net/gh/boging23/test@main/ab4.mp4"
+    "videoUrl": "https://res.cloudinary.com/qlau93ne/video/upload/v1788137520/ab4.mp4"
   }
 ]
