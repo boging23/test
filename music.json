@@ -2066,22 +2066,6 @@
   },
   {
     "type": "illustration",
-    "title": "Star Wars Style Space Battle",
-    "author": "Fantasy Soundscapes",
-    "cover": "https://ik.imagekit.io/r6r0ws6vg/gambar/1782106872276-963da6b8-b4e7-4cbd-8968-4558caec5991.webp",
-    "thumbnail": "thumbnail/1782106872276-963da6b8-b4e7-4cbd-8968-4558caec5991.webp",
-    "video": null,
-    "music_category": "Fantasy",
-    "playlist": "https://audio.sugengiman.my.id/fantasy/fan22.opus",
-    "has_start": false,
-    "is_premium": true,
-    "is_new": false,
-    "duration": 2001,
-    "size": "",
-    "_id": "fantasy_022"
-  },
-  {
-    "type": "illustration",
     "title": "Steampunk Victorian City",
     "author": "Fantasy Soundscapes",
     "cover": "https://ik.imagekit.io/r6r0ws6vg/gambar/1782106905748-86219d64-568a-4249-8243-e9a265a90476.webp",
@@ -3155,21 +3139,6 @@
   },
   {
     "type": "illustration",
-    "title": "The Napoleonic Wars",
-    "author": "P. Kshemya",
-    "cover": "https://ik.imagekit.io/r6r0ws6vg/gambar/1782458166179-8fea1c01-e8f2-4c19-bddd-476041196500.webp",
-    "thumbnail": "thumbnail/1782458166179-8fea1c01-e8f2-4c19-bddd-476041196500.webp",
-    "music_category": "Fantasy",
-    "playlist": "https://res.cloudinary.com/dhcnwycc1/video/upload/v1782457671/fan31_shsbnf.ogg",
-    "has_start": false,
-    "is_premium": true,
-    "is_new": false,
-    "duration": 1936,
-    "size": "32mb",
-    "_id": "a5"
-  },
-  {
-    "type": "illustration",
     "title": "The Atmosphere of a Future City",
     "author": "P. Kshemya",
     "cover": "https://ik.imagekit.io/r6r0ws6vg/gambar/1782458189544-5e7d8254-1551-4b52-8c30-f5d7dd7d06d9.webp",
@@ -3182,21 +3151,6 @@
     "duration": 2006,
     "size": "32mb",
     "_id": "a6"
-  },
-  {
-    "type": "illustration",
-    "title": "Medieval Battle War Ambience",
-    "author": "P. Kshemya",
-    "cover": "https://ik.imagekit.io/r6r0ws6vg/gambar/1782458234998-bec6b822-451b-44ed-9a7b-26c65f1bb3e3.webp",
-    "thumbnail": "thumbnail/1782458234998-bec6b822-451b-44ed-9a7b-26c65f1bb3e3.webp",
-    "music_category": "Fantasy",
-    "playlist": "https://res.cloudinary.com/dhcnwycc1/video/upload/v1782457672/fan33_ttahgx.ogg",
-    "has_start": false,
-    "is_premium": true,
-    "is_new": false,
-    "duration": 2111,
-    "size": "32mb",
-    "_id": "a8"
   },
   {
     "type": "illustration",
