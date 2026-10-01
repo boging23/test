@@ -3880,5 +3880,17 @@
     "is_new": false,
     "duration": 2395,
     "size": null
+  },
+  {
+    "title": "Hospital Waiting Room",
+    "cover": "https://res.cloudinary.com/dhcnwycc1/image/upload/v1790838915/hospital_elg54m.jpg",
+    "thumbnail": "thumbnail/hospital1.jpg",
+    "video": null,
+    "music_category": "Soundscape",
+    "playlist": "https://audio.sugengiman.my.id/scape/hospital.opus",
+    "is_premium": true,
+    "is_new": true,
+    "duration": 1316,
+    "size": null
   }
 ]
